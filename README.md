@@ -1,4 +1,4 @@
-# waterly
+# <img src="public/favicon.ico" height=20> waterly
 
 The water tracking app built with vue.js.
 
